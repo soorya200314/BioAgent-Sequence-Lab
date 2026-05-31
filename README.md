@@ -1,4 +1,3 @@
 # BioAgent-Sequence-Lab
 
-### Visual Output
-![Phylogenetic Tree](phylogeny_tree.png)
+[![Open in Streamlit](https://static.streamlit.io/badge.svg)](https://bioagent-sequence-lab.streamlit.app/)
